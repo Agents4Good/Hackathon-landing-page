@@ -1,0 +1,7 @@
+site_name: 'Hackathon Landing Page'
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+    name: Hackathon-landing-page
+    title: Hackathon Landing Page
+    description: Landing page para informações e instruções sobre o evento do Hackathon
+    annotations:
+        backstage.io/techdocs-ref: dir:.
+        github.com/project-slug: Agents4Good/Hackathon-landing-page
+
+spec:
+    type: documentation
+    lifecycle: development
+    owner: Agents4Good
